@@ -26,6 +26,10 @@ body::before {
     opacity: 0.4;
 }
 
+p{
+    display: block;
+}
+
 .container {
     width: 1200px;
     height: 600px;
